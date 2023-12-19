@@ -33,4 +33,4 @@ Hostel Life is a user-friendly website designed to help students and working pro
 ## Customize the Website:
 
 ## Modify the HTML, CSS, and JavaScript files as needed to tailor the website to your preferences.
-
+![Screenshot 2023-12-19 at 8 12 48 PM](https://github.com/sumit1298/Hoste-bunk-main/assets/105236573/2a13c767-5120-418a-a991-33888e72b609)
